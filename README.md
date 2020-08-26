@@ -1,2 +1,2 @@
-# NotaConjuntura4
-Análise adicional para a Nota de Conjuntura 4 Cecon - Impacto da Reforma da Previdência no Abono por ocupação
+# AnaliseAbono
+Análise do Abono por família ocupacional usando RAIS 2018
